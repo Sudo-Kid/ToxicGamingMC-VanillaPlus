@@ -1,0 +1,13 @@
+name: VanillaPlus
+version: '${version}'
+main: win.toxicgaming.vanillaplus.VanillaPlus
+api-version: 1.19
+authors: [ SudoKid ]
+description: Vanilla MC with some twists
+website: toxicgaming.win
+
+commands:
+  toxic-load-chunk:
+    description: Your description
+    usage: /toxic-load-chunk
+    permission: yourplugin.yourcommandpermission
